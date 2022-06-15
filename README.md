@@ -3,17 +3,17 @@ Projeto de Trivia
 Etapas do Projeto
 
 Definição de tema;<br>
-Estudos de layout feitos a mão;
-Estruturação das ideias antes de codar;
-Captação de aprendizado antes de inserir os códigos no projeto;
-Momento para codar
-Estruturando html;
-Produção do javascript;
-Prompt de nome;
-Questões;
-Produção do estilo em .css;
-Layout da página.
-Busca de soluções para alguns erros;
-Linkar html em outros através de botões;
+Estudos de layout feitos a mão;<br>
+Estruturação das ideias antes de codar;<br>
+Captação de aprendizado antes de inserir os códigos no projeto;<br>
+Momento para codar;<br>
+Estruturando html;<br>
+Produção do javascript;<br>
+Prompt de nome;<br>
+Questões;<br>
+Produção do estilo em .css;<br><br>
+Layout da página;<br>
+Busca de soluções para alguns erros;<br>
+Linkar html em outros através de botões;<br>
 Produção de botões e atribuição de utilidades.
 
