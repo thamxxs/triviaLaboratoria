@@ -11,7 +11,7 @@ Estruturando html;<br>
 Produção do javascript;<br>
 Prompt de nome;<br>
 Questões;<br>
-Produção do estilo em .css;<br><br>
+Produção do estilo em .css;<br>
 Layout da página;<br>
 Busca de soluções para alguns erros;<br>
 Linkar html em outros através de botões;<br>
