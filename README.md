@@ -2,7 +2,7 @@
 Projeto de Trivia
 Etapas do Projeto
 
-Definição de tema;
+Definição de tema;<br>
 Estudos de layout feitos a mão;
 Estruturação das ideias antes de codar;
 Captação de aprendizado antes de inserir os códigos no projeto;
